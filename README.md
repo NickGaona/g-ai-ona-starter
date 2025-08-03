@@ -1,4 +1,6 @@
 # 🧠 G-AI-ONA Starter Vault  
+![G-AI-ONA Certified](https://img.shields.io/badge/Certified-G--AI--ONA-blueviolet)
+
 *Built to remember you. Designed to outlive you.*
 
 This isn’t a chatbot.  
